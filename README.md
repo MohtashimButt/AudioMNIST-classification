@@ -5,7 +5,7 @@
 - I used MFCCs to extract features from audio and PyTorch to classify audio.
 - The classifier has `Train Acc: 0.9466` and `Val acc: 0.9323` with the following plots:
 
-![losses](url daal)
+![losses](https://github.com/MohtashimButt/AudioMNIST-classification/blob/master/Assets/output.png)
 
 ### How to use this work?
 - Clone the repository by using the following command:
